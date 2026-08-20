@@ -1,0 +1,17 @@
+# Computer Vision
+opencv-python
+numpy
+ultralytics  # YOLOv8
+
+# Text-to-Speech
+pyttsx3
+
+# Speech Recognition (optional)
+SpeechRecognition
+pyaudio  # Microphone input
+
+# NLP (optional)
+nltk
+wikipedia
+
+# Others
